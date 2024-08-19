@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100..1000&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Making it responsive for even smaller devices */
+@media (max-width: 362px) {
+  html {
+    font-size: 88%;
+  }
+}
