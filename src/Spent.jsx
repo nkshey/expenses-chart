@@ -15,7 +15,7 @@ function Spent() {
         <span className="text-medium-brown">Total this month</span>
 
         <div className="flex items-center justify-between">
-          <p className="text-3xl font-bold md:text-[3.125rem]">$478.33</p>
+          <p className="text-3xl font-bold md:text-[3.0625rem]">$478.33</p>
 
           <div className="flex flex-col items-end gap-1 leading-none md:gap-1.5">
             <p className="font-bold">+2.4%</p>

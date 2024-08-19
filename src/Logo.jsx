@@ -1,8 +1,10 @@
 function Logo() {
   return (
-    <div className="w-[3.75rem]">
-      <img src="./images/logo.svg" alt="logo" />
-    </div>
+    <img
+      src="./images/logo.svg"
+      alt="logo"
+      className="w-[3.75rem] md:w-[4.5625rem]"
+    />
   );
 }
 
